@@ -1,0 +1,14 @@
+/* 
+Changed all sentiment-based color to green - portfolio is doing great!
+Please use it wisely and trade responsibly
+*/
+
+body * {
+    --rh__primary-base: rgb(0,200,5) !important;
+    --rh__primary-hover: rgba(0,180,5,1) !important;
+      --rh__primary-pressed: rgba(0,150,5,1) !important;
+      --rh__primary-light-base: rgba(0,200,5,0.3) !important;
+      --rh__primary-lightest-base: rgba(0,200,5,0.1) !important;
+    --rh__semantic-negative-base: rgb(0,200,5) !important;
+  }
+  
