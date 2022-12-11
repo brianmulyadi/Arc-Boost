@@ -5,6 +5,10 @@ Collection of boosts for Arc Browser
 
 Injects a link to the Amazon product page that leads to a YouTube search for the product reviews
 
+
+
+Demo:
+
 ![](https://github.com/brianmulyadi/Arc-Boost/blob/main/youtube-reviews.gif)
 
 ### Green Robinhood
