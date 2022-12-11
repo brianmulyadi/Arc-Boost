@@ -1,6 +1,12 @@
 # Arc-Boost
 Collection of boosts for Arc Browser
 
+### Youtube Reviews on Amazon
+
+Injects a link to the Amazon product page that leads to a YouTube search for the product reviews
+
+
+
 ### Green Robinhood
 
 Changed all css classes that are related to negative sentiment to be green
