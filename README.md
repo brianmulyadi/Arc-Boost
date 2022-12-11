@@ -1,6 +1,8 @@
 # Arc-Boost
 Collection of boosts for Arc Browser
 
+Give a shoutout or let me know if you have any feedback for improvement (@brianmulyadi)[https://twitter.com/brianmulyadi]
+
 ### Youtube Reviews on Amazon
 
 Injects a link to the Amazon product page that leads to a YouTube search for the product reviews
@@ -48,3 +50,21 @@ function addLink(symbol, name, url) {
 Changed all css classes that are related to negative sentiment to be green
 
 ![](https://github.com/brianmulyadi/Arc-Boost/blob/main/green-robinhood.gif)
+
+Code block:
+
+```
+/* 
+Changed all sentiment-based color to green - portfolio is doing great!
+Please use it wisely and trade responsibly
+*/
+
+body * {
+    --rh__primary-base: rgb(0,200,5) !important;
+    --rh__primary-hover: rgba(0,180,5,1) !important;
+      --rh__primary-pressed: rgba(0,150,5,1) !important;
+      --rh__primary-light-base: rgba(0,200,5,0.3) !important;
+      --rh__primary-lightest-base: rgba(0,200,5,0.1) !important;
+    --rh__semantic-negative-base: rgb(0,200,5) !important;
+  }
+```
