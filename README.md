@@ -1,7 +1,7 @@
 # Arc-Boost
 Collection of boosts for Arc Browser
 
-Give a shoutout or let me know if you have any feedback for improvement (@brianmulyadi)[https://twitter.com/brianmulyadi]
+Give a shoutout or let me know if you have any feedback for improvement [@brianmulyadi](https://twitter.com/brianmulyadi)
 
 ### Youtube Reviews on Amazon
 
